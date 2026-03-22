@@ -82,6 +82,38 @@ After deployment:
 
 ---
 
+## Screenshots
+
+I have included a few screenshots to demonstrate the working pipeline and outputs:
+
+* **Lambda Execution**
+
+  * Ingest Lambda
+  * Analytics Lambda
+
+* **CloudWatch Logs**
+
+  * Ingest execution logs
+  * Analytics output logs
+
+* **S3 Storage**
+
+  * BLS dataset stored in S3
+  * Population dataset stored in S3
+
+* **SQS**
+
+  * Queue monitoring
+  * Trigger configuration
+
+* **Notebook Output**
+
+  * Part 3 analysis exported as HTML
+
+All screenshots are available in the `html_screenshots/` folder for reference.
+![Analytics Logs](html_screenshots/CloudWatch_Analytics.png)
+---
+
 ## Challenges Faced
 
 * Handling BLS data access restrictions (403/406 issues)
@@ -90,6 +122,7 @@ After deployment:
 * Ensuring compatibility between local and Lambda environments
 
 ---
+
 
 ## Acknowledgement
 
