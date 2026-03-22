@@ -112,6 +112,7 @@ I have included a few screenshots to demonstrate the working pipeline and output
 
 All screenshots are available in the `html_screenshots/` folder for reference.
 ![Analytics Logs](html_screenshots/CloudWatch_Analytics.png)
+
 ---
 
 ## Challenges Faced
