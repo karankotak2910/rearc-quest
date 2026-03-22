@@ -1,0 +1,122 @@
+{
+  "/RearcPipelineStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    }
+  ],
+  "/RearcPipelineStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    }
+  ],
+  "/RearcPipelineStack/DataBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DataBucketE3889A50"
+    }
+  ],
+  "/RearcPipelineStack/Queue/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "Queue4A7E3555"
+    }
+  ],
+  "/RearcPipelineStack/Ingest/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "Ingest4069586C"
+    }
+  ],
+  "/RearcPipelineStack/Analytics/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "Analytics0CFCBF3B"
+    }
+  ],
+  "/RearcPipelineStack/BucketNotificationsHandler050a0587b7544547bf325f094a3db834/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BucketNotificationsHandler050a0587b7544547bf325f094a3db8347ECC3691"
+    }
+  ],
+  "/RearcPipelineStack/Daily/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DailyF2158A89"
+    }
+  ],
+  "/RearcPipelineStack/Daily/AllowEventRuleRearcPipelineStackIngestF5027CC3": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DailyAllowEventRuleRearcPipelineStackIngestF5027CC325AB39EF"
+    }
+  ],
+  "/RearcPipelineStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    }
+  ],
+  "/RearcPipelineStack/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    }
+  ],
+  "/RearcPipelineStack/DataBucket/Notifications/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DataBucketNotifications11EB1C2E"
+    }
+  ],
+  "/RearcPipelineStack/Queue/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QueuePolicy25439813"
+    }
+  ],
+  "/RearcPipelineStack/Ingest/ServiceRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "IngestServiceRole0956ED6B"
+    }
+  ],
+  "/RearcPipelineStack/Analytics/ServiceRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AnalyticsServiceRole7ECC749C"
+    }
+  ],
+  "/RearcPipelineStack/Analytics/SqsEventSource:RearcPipelineStackQueue39A5E75A/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AnalyticsSqsEventSourceRearcPipelineStackQueue39A5E75AD65BF762"
+    }
+  ],
+  "/RearcPipelineStack/BucketNotificationsHandler050a0587b7544547bf325f094a3db834/Role/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BucketNotificationsHandler050a0587b7544547bf325f094a3db834RoleB6FB88EC"
+    }
+  ],
+  "/RearcPipelineStack/Ingest/ServiceRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "IngestServiceRoleDefaultPolicyB95F9D07"
+    }
+  ],
+  "/RearcPipelineStack/Analytics/ServiceRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AnalyticsServiceRoleDefaultPolicy5C68374A"
+    }
+  ],
+  "/RearcPipelineStack/BucketNotificationsHandler050a0587b7544547bf325f094a3db834/Role/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BucketNotificationsHandler050a0587b7544547bf325f094a3db834RoleDefaultPolicy2CF63D36"
+    }
+  ]
+}
