@@ -11,7 +11,7 @@ This project implements a simple AWS-based data pipeline.
 
 ## Design
 
-The pipeline is event-driven:
+Pipeline flow - 
 
 Ingestion → S3 → SQS → Analytics
 
